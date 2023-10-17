@@ -1,6 +1,6 @@
 {
-  "web/pdo/wspos/usuario/validar":{
-      "response": {
+  "web":{"pdo":{"wspos":{"usuario":{"validar":{
+          "response": {
         "dsOut": {
           "ttUsuario": 
             {
@@ -13,4 +13,12 @@
         "pcErr": ""
     }
   }
+  }
+  }
+  }
+  }
+
+  
+
+  
 }
