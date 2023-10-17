@@ -1,16 +1,4 @@
 {
-  "login":{
-"response": {
-        "dsOut": {
-          "ttUsuario": 
-            {
-              "usuario": "ldelaygue",
-              "dsusuario": "Leandro Delaygue",  
-              "email": "ldelaygue@nextbn.com",
-              "foto": "base64"
-            }
-        },
-        "pcErr": ""
-    }
-    }
+  "web/pdo/wspos/usuario/validar":"Hola"
+
 }
