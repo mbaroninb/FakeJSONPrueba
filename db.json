@@ -11,6 +11,17 @@
         },
         "pcErr": ""
     }
+  },
+  "sincroErp":{
+        "error": [
+        {
+            "route": "",
+            "statusCode": 0,
+            "codigo": 0,
+            "tipo": "E",
+            "mensaje": "Prueba"
+        }
+    ]
   }
 }
     
